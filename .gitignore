@@ -1,0 +1,7 @@
+*/__pycache__
+*/*/__pycache__
+.idea
+isport.db
+venv
+*.log
+*.pid
