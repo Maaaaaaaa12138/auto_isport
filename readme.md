@@ -20,6 +20,8 @@
 
 参考：[https://12138.site/artical/19](https://12138.site/artical/19)
 
+部署所需nginx和uwsgi配置已存放在根目录：`isport.conf`、`isport.ini`
+
 ## 使用
 
 **安装依赖**
